@@ -1,5 +1,6 @@
-# Bitwarden Web Vault Dark Mode
+# This repository has moved to:
+## <https://github.com/schalkburger/website-enhancements>
 
-Dark mode for Bitwarden Web Vault
+~~# Bitwarden Web Vault Dark Mode~~
 
-![Image of Bitwarden Web Vault Dark Mode](vault.bitwarden.com_.png)
+~~Dark mode for Bitwarden Web Vault~~
